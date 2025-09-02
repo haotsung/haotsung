@@ -9,7 +9,7 @@ I'm a Master's graduate in Biomedical Engineering from RWTH Aachen University, w
 
 📘 My master’s thesis focused on comparing different dimensionality reduction techniques (PCA, ICA, NMF, UMAP, Autoencoder) to extract latent behavioral components from the Human Connectome Project, and predict them from resting-state fMRI using Kernel Ridge Regression. Check it out [here](https://github.com/haotsung/HCP_behavioral_prediction)! 
 
-🌱 I’m currently looking for PhD opportunities in computational biology, AI for healthcare, or cancer research, particularly involving multi-omics data integration and uncertainty quantification.
+🌱 I’m currently looking for PhD opportunities in computational biology, AI for healthcare, or cancer research, particularly developing predictive models for multi-omics data analysis and clinical decision support.
 
 📫 You can reach me at: howard35212@gmail.com
 
